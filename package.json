@@ -1,0 +1,10 @@
+{
+  "name": "cra-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "entry.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {}
+}
